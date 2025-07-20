@@ -1,0 +1,12 @@
+Header 1        Header 2        Header 3
+a       b       c
+short   word    x
+1234567 tab
+12345678        tab
+A_very_long_word        and_then_a_tab
+Consecutive             tabs
+        Tab at the start
+A line with no tabs at all.
+
+A line after an empty line.
+End of  the             file.

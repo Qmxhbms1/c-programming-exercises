@@ -1,0 +1,32 @@
+	hello	world
+       a
+      ab
+     abc
+    abcd
+   abcde
+  abcdef
+ abcdefg
+abcdefg	h
+		start
+	       fifteen
+		sixteen
+a	b
+ab	c
+abc	d
+abcd	e
+abcde   f
+abcdef  g
+ leading spaces
+trailing spaces  
+no    spaces    here
+a	b	c
+	a	b	c
+hello
+
+an    empty    line    above
+an    empty    line    below
+
+a    b    c    d
+	
+		
+		
